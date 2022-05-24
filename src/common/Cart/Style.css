@@ -3,7 +3,7 @@
     padding: 50px 0;
 }
 .cart-items .cart-details{
-    width: 70%
+    width: 100%
 }
 .cart-items .cart-total{
     height: 130px;
@@ -32,9 +32,7 @@
     height: 100%;
     
 }
-.cart-items .cart-details{
-    width: 50%;
-}
+
 .cart-items h3{
     font-size: 20px;
     font-weight: 500;
@@ -101,5 +99,8 @@
     }
     .cart-items .cart-total{
         width: 70%;
+    }
+    .cart-items .product{
+        height: 220px;
     }
 }
