@@ -129,6 +129,9 @@ section .info-text img {
   .product{
     height: 400px;
   }
+  .cart-items{
+    height: 225px;
+  }
 }
 .Arrow-btn .next,
 .Arrow-btn .prev{
