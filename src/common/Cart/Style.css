@@ -17,7 +17,6 @@
 }
 .cart-items .item{
     flex-direction: row;
-    height: auto;
 }
 .cart-items .cart-list{
     background-color: #fff;
